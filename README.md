@@ -1,1 +1,1 @@
-# grapsqlmap.py
+# graphqlmap.py
